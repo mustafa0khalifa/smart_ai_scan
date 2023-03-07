@@ -11,39 +11,39 @@ Help you to extract personal information from ID card.
 ## Screenshots
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/1.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/1.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/2.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/2.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/3.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/3.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/4.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/4.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/5.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/5.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/6.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/6.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/7.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/7.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/8.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/8.jpg" width="200px">
 </a>
 
 <a href="#screenshots">
-<img src="https://github.com/mustafa0khalifa/smart_scan/blob/main/screenshots/9.jpg" width="200px">
+<img src="https://github.com/mustafa0khalifa/smart_ai_scan/blob/main/screenshots/9.jpg" width="200px">
 </a>
 
 
